@@ -1,0 +1,26 @@
+.dropdown-toggle
+{
+  text-decoration: none;
+}
+.justify-content-center {
+background-color: gray;
+
+}
+ul li a {
+
+color: white;
+
+}
+
+.card {
+margin-top: 1.5em;
+margin-left: 1px;
+}
+  
+img {
+height: 300px;
+width: 18rem;
+}
+.page-footer{
+background-color: aqua;
+}
